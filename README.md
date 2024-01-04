@@ -1,1 +1,1 @@
-# Forest-fire-prediction
+# Forest-Fire-Predicition
